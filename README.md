@@ -1,0 +1,1 @@
+Simple HTTP server that listens on port 8080 and responds with "Hello from Go backend!" when accessed.
